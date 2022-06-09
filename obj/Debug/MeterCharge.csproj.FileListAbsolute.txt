@@ -1,0 +1,10 @@
+/Users/julianapelnar/Projects/MeterCharge/bin/Debug/MeterCharge.exe.config
+/Users/julianapelnar/Projects/MeterCharge/bin/Debug/MeterCharge.exe
+/Users/julianapelnar/Projects/MeterCharge/bin/Debug/MeterCharge.pdb
+/Users/julianapelnar/Projects/MeterCharge/bin/Debug/nunit.framework.dll
+/Users/julianapelnar/Projects/MeterCharge/bin/Debug/nunit.framework.xml
+/Users/julianapelnar/Projects/MeterCharge/obj/Debug/MeterCharge.csproj.AssemblyReference.cache
+/Users/julianapelnar/Projects/MeterCharge/obj/Debug/MeterCharge.csproj.CoreCompileInputs.cache
+/Users/julianapelnar/Projects/MeterCharge/obj/Debug/MeterCharge.csproj.CopyComplete
+/Users/julianapelnar/Projects/MeterCharge/obj/Debug/MeterCharge.exe
+/Users/julianapelnar/Projects/MeterCharge/obj/Debug/MeterCharge.pdb
